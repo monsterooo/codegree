@@ -4,6 +4,8 @@ repo: upptime # Your GitHub repository name
 
 # Add your sites here
 sites:
+  - name: Baidu
+    url: https://www.baidu.com
   - name: Google
     url: https://www.google.com
   - name: Wikipedia
@@ -34,6 +36,5 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
