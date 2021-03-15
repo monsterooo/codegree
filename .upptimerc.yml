@@ -26,7 +26,7 @@ status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   cname: status.codegree.net
   # Uncomment the following line if you don't have a custom domain and add your repo name
-  baseUrl: /codegree
+  # baseUrl: /codegree
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: CodeGree
   introTitle: "**CodeGree**的状态和正常运行时间跟踪器."
