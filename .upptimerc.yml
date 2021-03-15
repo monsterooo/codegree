@@ -24,17 +24,17 @@ sites:
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: demo.upptime.js.org
+  cname: status.codegree.net
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /codegree
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: CodeGree
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "**CodeGree**的状态和正常运行时间跟踪器."
+  introMessage: 这是CodeGree状态跟踪页面，在这个页面中会展示我们的前端服务、后端服务以及协同编辑服务的状态.
   navbar:
-    - title: Status
+    - title: 状态
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: CodeGree首页
+      href: https://www.codegree.net
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
